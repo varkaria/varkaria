@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavaresorn Malai (aka. Varkaria)</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<img align="center" src="https://i.ppy.sh/4657d7243a63025fc071031fe217f66642525334/68747470733a2f2f692e6962622e636f2f4c4371624372762f796561682d626f692e706e67">
 
 <br>
 
