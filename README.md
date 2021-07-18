@@ -25,5 +25,3 @@
 
 ## 🧶 Stats
 [![info](https://github-readme-stats.vercel.app/api?username=varkaria&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/varkaria/varkaria)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varkaria&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/varkaria/varkaria)
