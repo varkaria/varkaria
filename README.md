@@ -7,6 +7,7 @@
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-red?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
+![sql](https://img.shields.io/badge/-css-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
 
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
