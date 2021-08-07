@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/lGt8WMA.png">
+<img align="center" src="https://i.imgur.com/nkfUWh0.png">
 
 ## ⛏️ Stacks
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
