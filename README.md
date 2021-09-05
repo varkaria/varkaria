@@ -1,5 +1,3 @@
-<img align="center" src="https://i.imgur.com/nkfUWh0.png">
-
 ## ⛏️ Stacks
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
