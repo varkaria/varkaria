@@ -1,1 +1,1 @@
-![Frame 19](https://user-images.githubusercontent.com/61514399/167802288-821c07ce-9097-4c55-8fed-0e7faaf614a7.png)
+![Frame 19](https://user-images.githubusercontent.com/61514399/167802861-ea4b9a95-c5b0-49a9-ae5f-b57ef8d3a959.png)
