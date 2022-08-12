@@ -1,1 +1,13 @@
-![Frame 19](https://user-images.githubusercontent.com/61514399/167803333-8557cb92-740c-4c18-a0d7-32ed7bacee2a.png)
+# GitHub README picture generation infrastructure
+
+The animated SVGs you see [on my profile](https://github.com/dtinth) are
+generated from code in this branch. They are server-rendered
+([powered by Vercel](https://vercel.com/docs/runtimes#official-runtimes/node-js)),
+which means it’s possible to render dynamic content here.
+
+## Development
+
+```sh
+yarn
+yarn vercel dev
+```
